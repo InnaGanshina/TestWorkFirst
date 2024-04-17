@@ -1,0 +1,14 @@
+C:\Учеба\C#\TestWork1.0\bin\Debug\net8.0\TestWork1.0.exe
+C:\Учеба\C#\TestWork1.0\bin\Debug\net8.0\TestWork1.0.deps.json
+C:\Учеба\C#\TestWork1.0\bin\Debug\net8.0\TestWork1.0.runtimeconfig.json
+C:\Учеба\C#\TestWork1.0\bin\Debug\net8.0\TestWork1.0.dll
+C:\Учеба\C#\TestWork1.0\bin\Debug\net8.0\TestWork1.0.pdb
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\TestWork1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\TestWork1.0.AssemblyInfoInputs.cache
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\TestWork1.0.AssemblyInfo.cs
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\TestWork1.0.csproj.CoreCompileInputs.cache
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\TestWork1.0.dll
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\refint\TestWork1.0.dll
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\TestWork1.0.pdb
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\TestWork1.0.genruntimeconfig.cache
+C:\Учеба\C#\TestWork1.0\obj\Debug\net8.0\ref\TestWork1.0.dll
